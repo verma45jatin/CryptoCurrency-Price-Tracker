@@ -1,6 +1,6 @@
-# 🚀 **CRYPTOCURRENCY PRICE-TRACKER**
+# 🚀 **CRYPTOMARKET   PRICE-TRACKER**
 
-Welcome to the **Cryptocurrency Price-Tracker Web-App**! This project is built using **React JS, Material UI, and Chart JS**, offering a fully responsive experience.
+Welcome to the **CryptoMarket Price-Tracker Web-App**! This project is built using **React JS, Material UI, and Chart JS**, offering a fully responsive experience.
 
 ## 🔥 **FEATURES**
 
