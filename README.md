@@ -23,8 +23,15 @@ Our Web-app is designed to look stunning on all devices, from mobile phones to d
 ## 🚀 **GET STARTED**
 
 **Clone the repository:**
-```sh
 git clone https://github.com/your-username/cryptocurrency-tracker-app.git
+
+**Install dependencies:**
+npm install
+
+## **Start the app:**
+npm start
+
+The application should now be running locally at http://localhost:3000.
 
 
 
