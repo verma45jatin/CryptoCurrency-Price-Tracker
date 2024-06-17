@@ -23,7 +23,7 @@ Our Web-app is designed to look stunning on all devices, from mobile phones to d
 ## 🚀 **GET STARTED**
 
 **Clone the repository:**
-git clone https://github.com/your-username/cryptocurrency-tracker-app.git
+git clone https://github.com/your-username/CryptoMarket-Price-Tracker.git
 
 The application should now be running locally at http://localhost:3000.
 
